@@ -73,7 +73,7 @@ start_time = time.time()
 
 # it may be best to fiddle around with ways of capturing video, but for now
 # upto a frame seemed most optimized for comparison, IMHO.
-for i in range(0, 70):
+for i in range(0, 120):
     capture.set(1, i)
 
 
