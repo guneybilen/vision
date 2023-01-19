@@ -1,0 +1,291 @@
+ 1  sudo ls -al
+    2  sudo apt upgrade
+    3  python3 -m venv venv
+    4  source venv/bin/activate
+    5  python3 -m pip install -r requirements.txt 
+    6  torify python3 -m pip install -r requirements.txt 
+    7  nano requirements.txt 
+    8  torify python3 -m pip install -r requirements.txt 
+    9  python3 sound_control.py 
+   10  torify python3 -m pip install alsaaudio
+   11  torify python3 -m pip install pyalsaaudio
+   12  torify pip install pyalsaaudio
+   13  sudo apt-get install build-essential libssl-dev libffi-dev python3-dev
+   14  torify pip install pyalsaaudio
+   15  torify pip uninstall pyalsaaudio
+   16  python3 sound_control.py 
+   17  torify python3 -m pip install mediapipe
+   18  python3 -m pip freeze > requirements2.txt
+   19  python3 sound_control.py 
+   20  sudo apt-get install python-alsaaudio
+   21  python3 sound_control.py 
+   22  sudo apt update
+   23  sudo apt upgrade
+   24  sudo apt autoremove
+   25  sudo apt-get install python-alsaaudio
+   26  sudo apt-get install python3-alsaaudio
+   27  history
+   
+   
+   
+   
+    1  sudo ls -al
+    2  python3 -m venv venv
+    3  sudo apt-get install python3-venv
+    4  sudo apt-get update
+    5  sudo apt-get install python3-venv
+    6  history
+    
+    
+    
+    1  sudo ls -al
+    2  python --version
+    3  python3 --version
+    4  sosource venv/bin/activate
+    5  source venv/bin/activate
+    6  torify pip install pyalsaaudio
+    7  sudo apt-get install lib32ncurses5-dev
+    8  torify pip install pyalsaaudio
+    9  sudo apt-get install python3.9-dev
+   10  cd /home/amnesia/Tor Browser/venv/include/site/python3.9/pyalsaaudio
+   11  cd /home/amnesia/Tor Browser/venv/include/site/python3.9/
+   12  cd /home/amnesia/Tor Browser/venv/include/site/python3.9
+   13  cd "/home/amnesia/Tor Browser/venv/include/site/python3.9/pyalsaaudio"
+   14  cd venv/
+   15  cd include/
+   16  cd site/
+   17  cd python3.9/
+   18  ls
+   19  cd greenlet/
+   20  ls
+   21  cd ..
+   22  history
+   
+   
+       1  sudo ls -al
+    2  python --version
+    3  python3 --version
+    4  python3 -m venv venv
+    5  sudo apt-get install python3-venv
+    6  sudo apt-get update
+    7  sudo apt-get install python3-venv
+    8  history
+    9  sosource venv/bin/activate
+   10  source venv/bin/activate
+   11  torify pip install pyalsaaudio
+   12  sudo apt-get install lib32ncurses5-dev
+   13  torify pip install pyalsaaudio
+   14  sudo apt-get install python3.9-dev
+   15  cd /home/amnesia/Tor Browser/venv/include/site/python3.9/pyalsaaudio
+   16  cd /home/amnesia/Tor Browser/venv/include/site/python3.9/
+   17  cd /home/amnesia/Tor Browser/venv/include/site/python3.9
+   18  cd "/home/amnesia/Tor Browser/venv/include/site/python3.9/pyalsaaudio"
+   19  cd venv/
+   20  cd include/
+   21  cd site/
+   22  cd python3.9/
+   23  ls
+   24  cd greenlet/
+   25  ls
+   26  cd ..
+   27  history
+   28  sudo apt upgrade
+   29  python3 -m venv venv
+   30  source venv/bin/activate
+   31  python3 -m pip install -r requirements.txt 
+   32  torify python3 -m pip install -r requirements.txt 
+   33  nano requirements.txt 
+   34  torify python3 -m pip install -r requirements.txt 
+   35  python3 sound_control.py 
+   36  torify python3 -m pip install alsaaudio
+   37  torify python3 -m pip install pyalsaaudio
+   38  torify pip install pyalsaaudio
+   39  sudo apt-get install build-essential libssl-dev libffi-dev python3-dev
+   40  torify pip install pyalsaaudio
+   41  torify pip uninstall pyalsaaudio
+   42  python3 sound_control.py 
+   43  torify python3 -m pip install mediapipe
+   44  python3 -m pip freeze > requirements2.txt
+   45  python3 sound_control.py 
+   46  sudo apt-get install python-alsaaudio
+   47  python3 sound_control.py 
+   48  sudo apt update
+   49  sudo apt upgrade
+   50  sudo apt autoremove
+   51  sudo apt-get install python-alsaaudio
+   52  sudo apt-get install python3-alsaaudio
+   53  history
+   54  pip list
+   55  python3 pip list
+   56  pip3 list
+   57  whereis python3.9
+   58  cd /usr/lib/python3.9/
+   59  ls -al
+   60  cd ..
+   61  cd //
+   62  cd ~
+   63  grep "python3-alsaaudio" . -r
+   64  sudo apt-get install python3-alsaaudio
+   65  pip freeze
+   66  sudo apt-get install python3-pip
+   67  pip
+   68  pip freeze | grep python3-alsaaudio
+   69  pip freeze | grep alsaaudio
+   70  python3 sound_control.py 
+   71  history
+   
+   
+   sudo apt-get install libasound2-dev
+   torify python3 -m pip install -r requirements2.txt 
+   
+   
+   (venv) amnesia@amnesia:~/Desktop/projects$ history
+    1  sudo ls -al
+    2  python --version
+    3  python3 --version
+    4  python3 -m venv venv
+    5  sudo apt-get install python3-venv
+    6  sudo apt-get update
+    7  sudo apt-get install python3-venv
+    8  history
+    9  sosource venv/bin/activate
+   10  source venv/bin/activate
+   11  torify pip install pyalsaaudio
+   12  sudo apt-get install lib32ncurses5-dev
+   13  torify pip install pyalsaaudio
+   14  sudo apt-get install python3.9-dev
+   15  cd /home/amnesia/Tor Browser/venv/include/site/python3.9/pyalsaaudio
+   16  cd /home/amnesia/Tor Browser/venv/include/site/python3.9/
+   17  cd /home/amnesia/Tor Browser/venv/include/site/python3.9
+   18  cd "/home/amnesia/Tor Browser/venv/include/site/python3.9/pyalsaaudio"
+   19  cd venv/
+   20  cd include/
+   21  cd site/
+   22  cd python3.9/
+   23  ls
+   24  cd greenlet/
+   25  ls
+   26  cd ..
+   27  history
+   28  sudo apt upgrade
+   29  python3 -m venv venv
+   30  source venv/bin/activate
+   31  python3 -m pip install -r requirements.txt 
+   32  torify python3 -m pip install -r requirements.txt 
+   33  nano requirements.txt 
+   34  torify python3 -m pip install -r requirements.txt 
+   35  python3 sound_control.py 
+   36  torify python3 -m pip install alsaaudio
+   37  torify python3 -m pip install pyalsaaudio
+   38  torify pip install pyalsaaudio
+   39  sudo apt-get install build-essential libssl-dev libffi-dev python3-dev
+   40  torify pip install pyalsaaudio
+   41  torify pip uninstall pyalsaaudio
+   42  python3 sound_control.py 
+   43  torify python3 -m pip install mediapipe
+   44  python3 -m pip freeze > requirements2.txt
+   45  python3 sound_control.py 
+   46  sudo apt-get install python-alsaaudio
+   47  python3 sound_control.py 
+   48  sudo apt update
+   49  sudo apt upgrade
+   50  sudo apt autoremove
+   51  sudo apt-get install python-alsaaudio
+   52  sudo apt-get install python3-alsaaudio
+   53  history
+   54  source venv/bin/activate
+   55  python3 -m pip install pyalsaaudio
+   56  torify python3 -m pip install pyalsaaudio
+   57  python3 -m pip install -r requirements2.txt 
+   58  python3 -m pip install pyalsaaudio
+   59  torify python3 -m pip install pyalsaaudio
+   60  pip freeze | grep alsaaudio
+   61  pip list
+   62  python3 pip list
+   63  pip3 list
+   64  whereis python3.9
+   65  cd /usr/lib/python3.9/
+   66  ls -al
+   67  cd ..
+   68  cd //
+   69  cd ~
+   70  grep "python3-alsaaudio" . -r
+   71  sudo apt-get install python3-alsaaudio
+   72  pip freeze
+   73  sudo apt-get install python3-pip
+   74  pip
+   75  pip freeze | grep python3-alsaaudio
+   76  pip freeze | grep alsaaudio
+   77  python3 sound_control.py 
+   78  history
+   79  pip freeze | grep alsaaudio
+   80  whereis pyalsaaudio
+   81  cd /usr/lib/python3.9/
+   82  ls -al
+   83  which python
+   84  whereis python3.9
+   85  cd /usr/local/lib/python3.9
+   86  ls -al
+   87  cd dist-packages/
+   88  ls -al
+   89  cd /usr/include/python3.9
+   90  ls -al
+   91  whereis python3.9
+   92  cd /usr/share/python3
+   93  ls -al
+   94  cd /usr/lib/python3
+   95  ls -al
+   96  cd dist-packages/
+   97  ls
+   98  source venv/bin/activate
+   99  python3 sound_control.py
+  100  python3 -m pip install python3-alsaaudio
+  101  torify python3 -m pip install python3-alsaaudio
+  102  pip list
+  103  python3 sound_control.py
+  104  python3 -m pip install pyalsaaudio
+  105  torify python3 -m pip install pyalsaaudio
+  106  python3 -m pip install -I pyalsaaudio
+  107  pip install -I pyalsaaudio
+  108  torify pip install -I pyalsaaudio
+  109  venv --system-site-packages
+  110  virtualenv venv --system-site-packages
+  111  pwd
+  112  cp -R /usr/lib/python3.9/dist-packages/pyalsaaudio /home/amnesia/Tor\ Browser/venv/lib/python3.9/site-packages/
+  113  cp -R /usr/lib/python3/dist-packages/pyalsaaudio /home/amnesia/Tor\ Browser/venv/lib/python3.9/site-packages/
+  114  cp -R /usr/lib/python3/dist-packages/pyalsaaudio-0.8.4.egg-info/ /home/amnesia/Tor\ Browser/venv/lib/python3.9/site-packages/
+  115  torify pip install -I pyalsaaudio-0.8.4
+  116  torify pip install -I pyalsaaudio
+  117  python3 sound_control.py
+  118  ls
+  119  cd venv
+  120  ls
+  121  cd lib
+  122  ls
+  123  cd python3.9/
+  124  ls
+  125  cd site-packages/
+  126  ls
+  127  pip install pyalsaaudio-0.8.4.egg-info
+  128  torify pip install pyalsaaudio-0.8.4.egg-info
+  129  mv pyalsaaudio-0.8.4.egg-info pyalsaaudio-0.8.4.dist-info
+  130  torify pip install pyalsaaudio-0.8.4
+  131  torify pip install pyalsaaudio
+  132  rm pyalsaaudio-0.8.4.dist-info
+  133  rm -r pyalsaaudio-0.8.4.dist-info
+  134  ls -al
+  135  cd ..
+  136  source venv/bin/activate
+  137  python3 -m pip install -r requirements2.txt 
+  138  torify python3 -m pip install -r requirements2.txt 
+  139  sudo apt-get install libasound2-dev
+  140  torify python3 -m pip install -r requirements2.txt 
+  141  python3.9 sound_control.py 
+  142  python3 sound_control.py 
+  143  sudo apt install qtwayland5
+  144  python3 sound_control.py QT_QPA_PLATFORM="xcb"
+  145  QT_QPA_PLATFORM="xcb" python3 sound_control.py 
+  146  QT_QPA_PLATFORM=wayland python3 sound_control.py 
+  147  QT_QPA_PLATFORM=xcb python3 sound_control.py 
+  148  history
+

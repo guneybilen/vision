@@ -113,11 +113,4 @@ while True:
 	#cv2.putText(img, 'FPS:{0} %'.format(int(area_end/125)), (40, 50), cv2.FONT_HERSHEY_PLAIN, 5, (255,0,0), 3)
 
 	cv2.imshow("Img", img)
-	if cv2.waitKey(1) == ord('q'):
-		break
-
-capture.release()
-cv2.destroyAllWindows()
-
-
-
+	cv2.waitKey(1)
